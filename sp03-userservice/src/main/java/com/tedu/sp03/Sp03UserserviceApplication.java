@@ -12,4 +12,5 @@ public class Sp03UserserviceApplication {
 		SpringApplication.run(Sp03UserserviceApplication.class, args);
 	}
 //mjj
+	//mjj2
 }
